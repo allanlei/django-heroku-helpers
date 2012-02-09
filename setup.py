@@ -16,7 +16,7 @@ setup(
     description = 'Helpers for integrating Django into Heroku',
     long_description=open('README.md').read(),
     license=open('LICENSE.txt').read(),
-    keywords = 'django heroku,
+    keywords = 'django heroku',
     url = 'https://github.com/allanlei/django-heroku-helpers',
     packages=find_packages_in('heroku'),
     install_requires=[
